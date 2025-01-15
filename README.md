@@ -43,7 +43,7 @@ CineRec uses a machine learning recommendation engine built with Python, Numpy, 
 
 ---
 
-##**Future Enhancements**
+## **Future Enhancements**
 
 - 🌟 Add support for TV show recommendations.
 - 📈 Improve recommendation accuracy by incorporating more advanced models.
